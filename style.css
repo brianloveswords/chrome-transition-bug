@@ -1,0 +1,11 @@
+* {
+  transition: all 5s;
+}
+article {
+  width: 32em;
+  margin: auto;
+}
+
+h1 {
+  color: red;
+}
