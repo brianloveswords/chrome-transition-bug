@@ -1,6 +1,9 @@
 * {
   transition: all 5s;
 }
+body {
+  font-size: 2em;
+}
 article {
   width: 32em;
   margin: auto;
